@@ -1,0 +1,13 @@
+# PyTorch with CUDA 12.4 support (RTX 5080 requires CUDA 12.4+):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+torch>=2.5.0
+torchvision>=0.20.0
+
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.4.0
+Pillow>=10.3.0
+matplotlib>=3.8.0
+jupyterlab>=4.2.0
+tqdm>=4.67.3
+python-dotenv>=1.0.0

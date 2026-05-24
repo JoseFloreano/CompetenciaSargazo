@@ -1,0 +1,9 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ml_env/
+torch_env/
+
+# Variables de entorno (contiene rutas locales)
+.env
